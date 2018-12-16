@@ -1,2 +1,5 @@
 .DS_Store
 random.xcodeproj/project.xcworkspace/xcuserdata/
+Pods/
+random.xcworkspace/
+random.xcodeproj/xcuserdata/
